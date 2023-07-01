@@ -1,0 +1,23 @@
+body{
+  background-color:powderblue;
+}
+input{
+  margin:0.5;}
+
+p{
+font-family:Aria;
+
+}
+  label{
+    display:block;
+    margin: 0.5rem 0;
+  }
+
+ input[type="radio"] {
+    display:block;
+    margin: 0.5rem 0;
+  }
+  input[type="checkbox"] {
+    display:block;
+    margin: 0.5rem 0;
+  }
